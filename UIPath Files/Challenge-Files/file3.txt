@@ -1,0 +1,3 @@
+Type: Receipt
+Customer: Frank Simmons
+Amount: $239.43

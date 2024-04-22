@@ -1,0 +1,3 @@
+Type: Receipt
+Customer: Nelly Neilson
+Amount: $43.50
